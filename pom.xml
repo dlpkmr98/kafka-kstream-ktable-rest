@@ -11,7 +11,7 @@
 		<java.version>1.8</java.version>
 		<kafka.version>2.2.1</kafka.version>
 		<jersey.version>2.27</jersey.version>
-		<jetty.version>9.4.18.v20190429</jetty.version>
+		<jetty.version>9.4.41.v20210516</jetty.version>
 		<jackson.version>2.9.8</jackson.version>
 	</properties>
 
